@@ -1,0 +1,5 @@
+# track only .gitignore, cpp and txt files
+/*
+!.gitignore
+!*.cpp
+!*.txt
